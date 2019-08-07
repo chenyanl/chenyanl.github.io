@@ -5,7 +5,8 @@ subtitle: Chenyang Li's personal page
 # description: Vno Jekyll is a port of my Ghost theme vno.
 # creator: <a href="http://onev.cat">@onevcat</a>
 
-url: "http://chenyang.li"
+url: "https://chenyanl.github.io"
+# url: "http://chenyang.li"
 
 permalink: /:year/:month/:title/
 
